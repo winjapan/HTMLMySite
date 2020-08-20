@@ -1,0 +1,20 @@
+.vision{
+	position: relative;
+z-index: 1;
+}
+.move{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	border-radius: 50%;
+	position: absolute;
+	top:500%;
+	left: 0%;
+
+	z-index: 2;
+}
+/* .absolute{
+position: absolute;
+
+} */
